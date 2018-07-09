@@ -1,0 +1,64 @@
+body {
+  background-color: #cccccc;
+}
+
+.row {
+  position: relative;
+  width: 420px;
+  right: 60px;
+}
+p {
+  height: 100px;
+}
+
+.intro {
+  position: relative;
+  left: 380px;
+  align-content: center;
+}
+
+
+input {
+  height: 93px;
+  font-weight: 700;
+  text-align: center;
+
+}
+
+input:hover {
+  border: solid;
+  background-color: #3b7fed;
+}
+
+.gameboard {
+  top: 90px;
+  width: 500px;
+  position: relative;
+  margin: auto 0;
+  left: 400px;
+  right: 400px;
+}
+
+#r2 {
+
+}
+#r1 {
+
+}
+
+#r3 {
+
+}
+
+.gamebord p {
+  font-size: 40px;
+}
+
+#addSum {
+  position: relative;
+  bottom: 10px;
+}
+
+#toggleh {
+  color: #3b7fed;
+}
